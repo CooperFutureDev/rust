@@ -4,7 +4,7 @@ Repositório focado em estudar Rust desde o princípio!
 
 # Objetivos:
 
-- [ ] Aprender conceitos básicos;
+- [🔄] Aprender conceitos básicos;
 - [ ] Aprender fundamentos da linguagem;
 - [ ] Ownership;
 - [ ] Borrowing;
