@@ -1,0 +1,6 @@
+[package]
+name = "exercicio-beta"
+version = "1.97.1"
+edition = "2024"
+
+[ dependencies ]
