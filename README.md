@@ -16,8 +16,11 @@ Repositório focado em estudar Rust desde o princípio!
 Este é um **Cargo Workspace** com vários exercícios separados de forma independente.
 
 (rust/
+
 ├── exercicio-beta/ # Primeiro programa (Olá, Rust!)
+
 ├── exercicio-1/ # [Calculadora simples]
+
 └── ...)
 
 # Como rodar um projeto? /*cargo run -p exercicio-1*/
